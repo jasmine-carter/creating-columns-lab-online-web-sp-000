@@ -62,7 +62,8 @@ width: 201.5%;
 height: 201.5%;
 }
 
-.large {
+.large div{
 width: 300%;
 height: 300%;
+align-self: center;
 }
